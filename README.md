@@ -11,13 +11,13 @@ M.S. in Information Management @ National Central University · Building AI-powe
 
 I design and ship full-stack systems that put AI at the core — not as a wrapper, but as a measured, testable component with real eval metrics.
 
-### [Stock Ledger](https://github.com/foxdog1011/stock_ledger) — Portfolio Tracker & Investment Research Platform
-> Python · FastAPI · Next.js · TypeScript · SQLite · Docker · Terraform · AWS · Claude API
+### [Stock Ledger](https://github.com/foxdog1011/stock_ledger) — Portfolio Tracker & Investment Research Platform · [Live Demo ↗](http://35.76.187.226)
+> Python · FastAPI · Next.js 15 · TypeScript · SQLite · Docker · Terraform · AWS · Claude API
 
 - 40+ REST endpoints · 24-page frontend · 18-tool MCP server for AI agent access
 - **J.A.R.V.I.S.** — context-aware AI portfolio analyst powered by Claude via MCP tool orchestration + SSE streaming
 - PCA autoencoder for portfolio-wide anomaly detection across multiple positions
-- AWS EC2 deployment via Terraform IaC + GitHub Actions CI/CD pipeline
+- AWS EC2 deployment via Terraform IaC + GitHub Actions CI/CD pipeline (auto-deploy on every push)
 - 336 automated tests across domain logic and API contracts
 
 ### [IELTS AI Platform](https://github.com/foxdog1011/ielts-ai-platform) — AI Coaching for Writing & Speaking · [Live Demo ↗](https://ielts-ai-platform-web.vercel.app)
@@ -49,8 +49,8 @@ I design and ship full-stack systems that put AI at the core — not as a wrappe
 
 ## Currently
 
-- Finishing M.S. @ National Central University (2023–2025)
-- Open to full-time roles in **backend / AI engineering** — Taiwan or remote
+- M.S. in Information Management @ National Central University (2023–2025)
+- Open to full-time roles in **backend / full-stack / AI engineering** — Taiwan or remote
 
 <!-- stats -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foxdog1011&layout=compact&hide=css,html&theme=default)
