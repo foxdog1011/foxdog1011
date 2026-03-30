@@ -15,6 +15,17 @@ I build end-to-end systems where **AI is a first-class citizen** — not a wrapp
 
 ---
 
+## Agent & Automation Systems
+
+Beyond single-model integrations, I design and operate **multi-agent pipelines**:
+
+- **Claude Code × Discord orchestration** — automated task routing and work distribution via a persistent Claude Code agent connected to Discord; agents receive commands, spawn sub-agents for parallel workstreams, and report results back to the channel
+- **NanoClaw (OpenClaw) self-hosted agent harness** — custom Claude Code agent harness with persistent memory, skill libraries, hook-based automation (pre/post tool-use), cron-scheduled remote agents, and session continuity across conversations
+- **MCP server authoring** — built and deployed MCP servers exposing portfolio data, knowledge bases, and automation tools to any MCP-compatible AI client
+- **Parallel sub-agent workflows** — orchestrating planner / code-reviewer / security-reviewer / tdd-guide agents in parallel for structured feature development
+
+---
+
 ## Projects
 
 ### [Stock Ledger](https://github.com/foxdog1011/stock_ledger) — Portfolio Tracker & Investment Research Platform
