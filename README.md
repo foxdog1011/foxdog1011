@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="mailto:eason4522@gmail.com"><img src="https://img.shields.io/badge/Email-eason4522%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20Full--Stack%20%7C%20AI%20Engineering-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Taiwan%20%7C%20Remote-available-lightgrey?style=flat-square" />
+  <a href="https://github.com/foxdog1011"><img src="https://img.shields.io/badge/GitHub-foxdog1011-181717?style=flat-square&logo=github" /></a>
 </p>
 
 ---
