@@ -20,15 +20,21 @@ Full-stack developer with a Master's in Information Management from National Cen
 
 ## Featured Projects
 
+### Stock Ledger
+
+An independently built and operated Taiwan-equity decision system spanning
+point-in-time market data, private portfolio analytics, sourced research,
+production monitoring, and an autonomous publishing pipeline.
+
+**[Engineering case study](https://foxdog1011.github.io/stock-ledger-showcase/)** ·
+**[Production app](https://covenest.systems)** *(login required)* ·
+**[YouTube output](https://www.youtube.com/channel/UC-TJSNbjSGP4c447hPjYLow)**
+
 ### IELTS AI Platform
 
 A full-stack AI coaching platform for IELTS Writing and Speaking preparation. Features dual-engine scoring (GPT-4o + XGBoost), multi-agent study planning, FSRS spaced repetition, and gamification mechanics. Achieved MAE 0.570 on a 50-essay benchmark.
 
 **Live demo:** [ielts-ai-platform-web.vercel.app](https://ielts-ai-platform-web.vercel.app)
-
-### Stock Ledger
-
-Taiwan stock analysis platform with institutional flow tracking, technical indicators, and market trend visualization.
 
 ### KeepInMind
 
