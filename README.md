@@ -1,3 +1,5 @@
+<img src="banner.png" alt="foxdog1011 — education tech and data platforms" width="100%">
+
 # Hi, I'm Eason
 
 Full-stack developer with a Master's in Information Management from National Central University (NCU). I build AI-powered web applications with a focus on education technology and data-driven platforms.
