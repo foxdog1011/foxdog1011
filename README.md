@@ -6,8 +6,6 @@ I build and **operate** production AI and data systems end-to-end, then use them
 
 The same discipline runs through both: measure the noise before claiming a gain, surface silent failures, and keep the system honest when nobody is watching.
 
-Currently looking at roles where systems thinking meets communication — equity research, solutions engineering, and technical consulting.
-
 ---
 
 ## Featured Projects
