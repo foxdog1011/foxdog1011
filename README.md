@@ -1,5 +1,3 @@
-<img src="banner.png" alt="Eason Lin — software, data, and AI systems" width="100%">
-
 # Hi, I'm Eason Lin
 
 I build and operate production software, with most of my recent work focused on financial data systems, AI evaluation, and workflow automation.
