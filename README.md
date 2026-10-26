@@ -2,29 +2,27 @@
 
 # Hi, I'm Eason Lin
 
-I build and operate production software, with most of my recent work focused on financial data systems, AI evaluation, and workflow automation.
-
-My projects usually start as tools I need myself, then grow into systems I have to deploy, monitor, debug, and improve from real usage.
+I build and operate production data and AI systems. My recent work focuses on financial research, learning products, and the engineering needed to keep them reliable.
 
 ## Featured projects
 
 ### Stock Ledger
-Taiwan-equity research and portfolio monitoring platform.
+An independently built Taiwan-equity research and decision system.
 
-- Integrates 12+ market-data sources into research, portfolio monitoring, scheduled analysis, and a public content pipeline.
-- I retired one of my own buy signals after 325 verified calls showed a 46% hit rate, and found another strategy's apparent outperformance was mostly market exposure rather than stock-selection skill.
-- Runs on Linux/Docker with portfolio data checks, deployment safeguards, and permission-scoped AI tools that cannot execute orders.
+- Connects dated market evidence, private portfolio context, and a public research-to-media pipeline.
+- I diagnosed a Docker networking exposure, added a regression guard, and made missing financial data visible instead of treating it as zero.
+- I downgraded a buy signal after reviewing 325 resolved calls: its 46% hit rate did not justify its original role.
 
-[Engineering case study](https://foxdog1011.github.io/stock-ledger-showcase/) · [Production app](https://covenest.systems) · [YouTube output](https://www.youtube.com/channel/UC-TJSNbjSGP4c447hPjYLow)
+[Engineering case study](https://foxdog1011.github.io/stock-ledger-showcase/) · [Read-only guest view](https://covenest.systems/auth/guest) · [Showcase source](https://github.com/foxdog1011/stock-ledger-showcase)
 
 ### Lumi
-AI-assisted IELTS assessment and learning platform.
+An IELTS learning platform connecting assessment to practice, revision, and transfer checks.
 
-- Used by 180+ learners across 677+ scored submissions.
-- Rebuilt the evaluation process around official examiner-scored samples after discovering that an earlier benchmark was not strong enough for accuracy claims.
-- Measures evaluation variance before accepting scoring changes, with production controls around authentication, usage, data access, and AI output.
+- Built separate Writing and Speaking assessment workflows and persistent learning targets.
+- Rebuilt Writing evaluation around a fixed set of official examiner-scored samples and measured run-to-run variance before accepting changes.
+- Kept model-generated feedback separate from database-controlled mastery transitions.
 
-[Live product](https://lumi.integratewise.com) · [Engineering case study](https://github.com/foxdog1011/ielts-ai-platform-demo)
+[Engineering case study](https://github.com/foxdog1011/ielts-ai-platform-demo) · [Live product](https://lumi.covenest.systems/)
 
 ## Technologies
 
